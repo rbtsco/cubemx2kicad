@@ -1,0 +1,11 @@
+{
+  "name": "cubemx2kicad",
+  "version": "1.0.0",
+  "description": "Export STM32 CubeMX pin assignments to matching symbols in a KiCad schematic",
+  "main": "cubemx2kicad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Hamminga",
+  "license": "apache-2.0"
+}
